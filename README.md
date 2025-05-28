@@ -29,8 +29,9 @@ How To Use:
 
 
 Results:
-    - Refer to "RunningCode.png" to see results of running the code
-    - Refer to "ExcelFile.png" to see how the data is imported 
+
+    1. Refer to "RunningCode.png" to see results of running the code
+    2. Refer to "ExcelFile.png" to see how the data is imported 
 
 
 
