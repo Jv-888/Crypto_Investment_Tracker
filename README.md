@@ -20,10 +20,19 @@ Features:
     
     Logs everything to Excel with formulas preserved
 
-1. Copy Repo
-2. Install requirements/Dependencies
-3. Create the .env file or declare Windows Env Variables for username/email password
-4. Run "python CryptoTrackerXLSX.py"
+How To Use:
+
+    1. Copy Repo
+    2. Install requirements/Dependencies
+    3. Create the .env file or declare Windows Env Variables for username/email password
+    4. Run "python CryptoTrackerXLSX.py"
+
+
+Results:
+    - Refer to "RunningCode.png" to see results of running the code
+    - Refer to "ExcelFile.png" to see how the data is imported 
+
+
 
 
   
