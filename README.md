@@ -20,6 +20,12 @@ Features:
     
     Logs everything to Excel with formulas preserved
 
+1. Copy Repo
+2. Install requirements/Dependencies
+3. Create the .env file or declare Windows Env Variables for username/email password
+4. Run "python CryptoTrackerXLSX.py"
+
+
   
 
 
